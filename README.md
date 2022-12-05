@@ -3,4 +3,4 @@ Assignment.-JS-Enrique-Donaire
 
 ///////////////////////////////////////////////////////
 
-https://enriquedonaire.github.io/Enrique-JS-Assignment/
+https://enriquedonaire.github.io/Enrique-JS-Assignment
