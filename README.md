@@ -1,5 +1,5 @@
 # Enrique-JS-Assignment 📱
-Assignment.-JS-Enrique-Donaire
+
 #  Tools 🛠️ :
   - JavaScript
   - HTML5
@@ -8,4 +8,4 @@ Assignment.-JS-Enrique-Donaire
   - Figma
   - Adobe XD
 
-https://enriquedonaire.github.io/Enrique-JS-Assignment
+#  https://enriquedonaire.github.io/Enrique-JS-Assignment
