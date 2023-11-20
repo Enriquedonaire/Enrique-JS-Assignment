@@ -7,5 +7,6 @@
   - SCSS
   - Figma
   - Adobe XD
+  - Adobe Illustrator
 
 # https://enriquedonaire.github.io/Enrique-JS-Assignment  
