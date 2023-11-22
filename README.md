@@ -1,6 +1,6 @@
 #  Enrique-JS-Assignment 📱
 
-#   Tools 🛠️:
+#  🛠️ Tools:
   - JavaScript
   - HTML5
   - BEM
